@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <latidude>39.7684364108384</latidude>
+      <longidude>30.5268859863281</longidude>
+      <name>Eskişehir</name>
+      <Style>
+        <IconStyle>
+          <color>FF0000FF</color>
+        </IconStyle>
+      </Style>
+    </Placemark>
+    <Placemark>
+      <latidude>35.1580912461901</latidude>
+      <longidude>33.3641052246094</longidude>
+      <name>Kıbrıs</name>
+      <Style>
+        <IconStyle>
+          <color>FF0000FF</color>
+        </IconStyle>
+      </Style>
+    </Placemark>
+  </Document>
+</kml>
